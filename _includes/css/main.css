@@ -133,7 +133,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 1.5em;
+        font-size: 2em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -152,7 +152,9 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: 'Amatic SC', cursive;
     font-weight: 700;
-    font-size: 1em;
+}
+.navbar-right {
+    font-size: 1.25em;
 }
 
 .navbar a:focus {
