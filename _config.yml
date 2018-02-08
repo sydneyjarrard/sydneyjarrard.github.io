@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Sydney Jarrard
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Follow Sydney
+  credits: Art Frick is an amazing husband
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -44,8 +44,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: New York City
+  - line: and the great Hudson Valley
 
 # Credits content
 credits: 'Husb.'
