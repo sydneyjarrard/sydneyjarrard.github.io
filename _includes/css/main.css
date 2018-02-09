@@ -17,11 +17,12 @@ p.small {
 }
 
 a,
-a:hover,
 a:focus,
 a:active,
 a.active {
     outline: 0;
+}
+a:hover{
     text-decoration: underline;
 }
 
@@ -458,6 +459,9 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* Sass up the FAQ section */
+
 .faq {
     border-bottom: 1px solid #eee;
     padding: 10px 0px;
