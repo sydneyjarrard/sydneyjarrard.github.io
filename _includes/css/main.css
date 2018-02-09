@@ -459,17 +459,19 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 .faq {
-
+    border-bottom: 1px solid #eee;
+    padding: 10px 0px;
+    margin: 10px 0px;
 }
 .faqq {
-
+    font-weight: bold;
 }
 .faqa {
-
+    padding-left: 20px;
 }
 .faq-top {
-
+    padding-top: 0px;
 }
 .faq-bottom {
-    
+    border-bottom: none;
 }
