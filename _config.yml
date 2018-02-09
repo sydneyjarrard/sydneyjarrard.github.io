@@ -11,7 +11,7 @@ meta_author: Jarrard Sydney
 google_verify: MC1Puu-Zold1tzdjHWf18y9Su44W1JDBd2PFpU9aQok
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify: 
+bing_verify: BFCAC196CBDDEE74C6C0C635EF8DF69E
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
