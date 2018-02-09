@@ -42,10 +42,10 @@ social:
   - title: instagram
     url: https://www.instagram.com/gimmesydney
 
-# Postal address (add as many lines as necessary)
+# NOT USED - SEE FOOTER.HTML file --- Postal address (add as many lines as necessary)
 address:
   - line: New York City
-  - line: and the Hudson Valley
+  - line: Hudson, New York
 
 # Credits content
 credits: 'Husb.'
