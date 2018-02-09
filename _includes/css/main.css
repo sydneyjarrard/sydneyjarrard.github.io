@@ -478,3 +478,6 @@ footer .footer-below {
 .faq-bottom {
     border-bottom: none;
 }
+.intro-text h1 {
+    font-size: inherit;
+}
