@@ -360,6 +360,8 @@ footer .footer-below {
     text-align: center;
     font-size: 20px;
     line-height: 45px;
+
+
 }
 
 .btn:focus,
@@ -480,4 +482,10 @@ footer .footer-below {
 }
 .intro-text h1 {
     font-size: 2em;
+}
+.blockTop {
+    padding-top: 100px;
+}
+.buttonBottom {
+    margin-bottom: 65px;    
 }
