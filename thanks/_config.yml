@@ -1,0 +1,55 @@
+# Site settings
+title: Sydney Jarrard - Writer/Editor
+email: sydneyjjarrard@gmail.com
+url: http://www.sydneyjarrard.com
+description: "Sydney is a writer and editor in New York. She is the winner of the 2017 Kathryn Gurfein Writing Fellowship from the Writing Institute at Sarah Lawrence College and is writing her debut young adult thriller, STRANGER DANGER."
+keywords: "writer, editor, young adult, ya, fiction, ya fiction, author, new york, new york city, feminist, literature, my favorite murder, mfm, badass"
+skills: "Writer - Editor - General Badass"
+meta_author: Jarrard Sydney
+
+# Google webmaster tools
+google_verify: MC1Puu-Zold1tzdjHWf18y9Su44W1JDBd2PFpU9aQok
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify: BFCAC196CBDDEE74C6C0C635EF8DF69E
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2f559a #80B3FF
+  primary-rgb: "47,85,154" #"128,179,255"
+  secondary: 332f30 #FD6E8A
+  secondary-dark: 282526 #A2122F
+
+# Footer settings
+footer:
+  copyright: Sydney Jarrard
+  location: Location
+  social: Follow Sydney
+  credits: Art Frick is an amazing husband
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://www.instagram.com/gimmesydney
+
+# NOT USED - SEE FOOTER.HTML file --- Postal address (add as many lines as necessary)
+address:
+  - line: New York City
+  - line: Hudson, New York
+
+# Credits content
+credits: 'Husb.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
